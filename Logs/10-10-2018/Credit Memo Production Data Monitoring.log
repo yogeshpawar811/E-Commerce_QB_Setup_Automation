@@ -1,0 +1,42 @@
+2018-10-10 17:17:01,991 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-10 17:17:06,159 INFO: Login in to Launchpad
+2018-10-10 17:17:22,248 INFO: Refreshing access_token
+2018-10-10 17:17:27,750 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:17:27,790 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:17:35,088 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:18:01,036 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:18:11,714 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:18:11,730 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:18:19,004 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:18:41,596 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:18:49,085 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:18:49,097 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:18:56,409 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:19:19,736 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:19:29,007 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:19:29,019 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:19:36,407 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:19:59,628 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:20:08,124 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:20:08,156 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:20:15,433 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:20:38,157 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:20:54,020 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:20:54,044 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:21:01,406 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:21:25,216 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:21:32,584 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:21:32,604 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:21:39,851 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:22:02,063 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:22:19,906 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:22:19,922 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:22:27,299 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:22:50,992 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:22:58,490 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:22:58,514 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:23:05,409 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:23:38,429 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-10 17:23:45,876 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-10 17:23:45,904 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-10 17:23:58,238 INFO: Executing method 'select_customer' from TransactionTrackerOperations

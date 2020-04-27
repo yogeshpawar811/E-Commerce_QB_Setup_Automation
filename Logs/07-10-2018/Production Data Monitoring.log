@@ -1,0 +1,83 @@
+2018-10-07 17:56:14,513 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 17:56:19,262 INFO: Login in to Launchpad
+2018-10-07 17:56:44,485 INFO: Refreshing access_token
+2018-10-07 17:56:51,468 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 17:56:51,764 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 17:56:59,300 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 17:57:25,482 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 17:57:35,020 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 17:57:35,036 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 17:57:42,382 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 17:58:04,405 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:00:35,465 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:00:38,923 INFO: Login in to Launchpad
+2018-10-07 18:01:07,859 INFO: Refreshing access_token
+2018-10-07 18:01:13,912 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:01:14,272 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:01:21,588 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:01:46,936 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:01:55,990 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:01:56,006 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:02:03,169 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:02:25,736 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:02:32,254 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:02:32,274 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:02:39,681 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:03:02,785 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:03:10,553 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:03:10,593 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:03:17,784 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:03:40,797 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:21:43,291 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:21:47,004 INFO: Login in to Launchpad
+2018-10-07 18:44:00,776 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:44:04,220 INFO: Login in to Launchpad
+2018-10-07 18:44:29,353 INFO: Refreshing access_token
+2018-10-07 18:44:35,847 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:44:39,141 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:44:46,439 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:45:12,725 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:47:06,374 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:47:09,993 INFO: Login in to Launchpad
+2018-10-07 18:47:47,716 INFO: Refreshing access_token
+2018-10-07 18:47:53,029 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:47:59,673 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:48:07,353 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:48:33,555 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:50:14,956 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:50:19,325 INFO: Login in to Launchpad
+2018-10-07 18:50:46,186 INFO: Refreshing access_token
+2018-10-07 18:50:52,227 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:50:52,571 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:50:59,742 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:51:25,711 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:51:34,021 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:51:34,061 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:51:41,510 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:52:04,343 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:52:10,780 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:52:10,832 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:52:18,114 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:52:41,113 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:52:49,387 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:52:49,428 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:52:56,937 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:53:20,304 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 18:58:06,444 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 18:58:11,044 INFO: Login in to Launchpad
+2018-10-07 18:58:36,099 INFO: Refreshing access_token
+2018-10-07 18:58:42,251 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 18:58:42,519 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:58:49,804 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 18:59:15,847 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 19:01:19,741 INFO: Executing Script Prodution Data Monitoring
+2018-10-07 19:01:24,118 INFO: Login in to Launchpad
+2018-10-07 19:01:50,131 INFO: Refreshing access_token
+2018-10-07 19:01:55,308 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 19:01:56,928 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 19:02:04,536 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 19:02:30,710 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-10-07 19:02:39,146 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-07 19:02:39,214 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 19:02:46,645 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-07 19:03:09,730 INFO: Executing method 'get_parcel' from TransactionTrackerOperations

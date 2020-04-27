@@ -1,0 +1,4 @@
+2018-10-04 12:56:32,179 INFO: Executing Script Process Test File
+2018-10-04 12:56:38,828 INFO: Login in to Launchpad
+2018-10-04 12:56:58,783 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-04 12:57:05,145 INFO: Executing method 'select_customer' from TransactionTrackerOperations

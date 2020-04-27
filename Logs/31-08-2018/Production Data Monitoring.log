@@ -1,0 +1,787 @@
+2018-08-31 16:39:24,198 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 16:39:24,741 DEBUG: POST http://127.0.0.1:61409/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 16:39:26,557 DEBUG: Finished Request
+2018-08-31 16:39:26,569 INFO: Login in to DC4 Prod
+2018-08-31 16:39:26,596 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,323 DEBUG: Finished Request
+2018-08-31 16:39:29,323 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "name", "value": "ssousername", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,356 DEBUG: Finished Request
+2018-08-31 16:39:29,356 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "name", "value": "ssousername", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,371 DEBUG: Finished Request
+2018-08-31 16:39:29,372 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element/0.22717134052920973-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.22717134052920973-1", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,448 DEBUG: Finished Request
+2018-08-31 16:39:29,449 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "name", "value": "password", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,471 DEBUG: Finished Request
+2018-08-31 16:39:29,472 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "name", "value": "password", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,482 DEBUG: Finished Request
+2018-08-31 16:39:29,483 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element/0.22717134052920973-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.22717134052920973-2", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,565 DEBUG: Finished Request
+2018-08-31 16:39:29,565 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,584 DEBUG: Finished Request
+2018-08-31 16:39:29,584 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:29,593 DEBUG: Finished Request
+2018-08-31 16:39:29,593 DEBUG: POST http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/element/0.22717134052920973-3/click {"id": "0.22717134052920973-3", "sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:33,007 DEBUG: Finished Request
+2018-08-31 16:39:38,009 DEBUG: DELETE http://127.0.0.1:61409/session/9c7d17dbf4c9a12daa2fca37725b4838/window {"sessionId": "9c7d17dbf4c9a12daa2fca37725b4838"}
+2018-08-31 16:39:40,113 DEBUG: Finished Request
+2018-08-31 18:52:26,316 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 18:52:26,856 DEBUG: POST http://127.0.0.1:62486/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 18:52:28,583 DEBUG: Finished Request
+2018-08-31 18:52:28,594 INFO: Login in to DC4 Prod
+2018-08-31 18:52:28,627 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,170 DEBUG: Finished Request
+2018-08-31 18:52:31,171 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "name", "value": "ssousername", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,204 DEBUG: Finished Request
+2018-08-31 18:52:31,204 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "name", "value": "ssousername", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,219 DEBUG: Finished Request
+2018-08-31 18:52:31,220 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element/0.04616140422925019-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.04616140422925019-1", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,286 DEBUG: Finished Request
+2018-08-31 18:52:31,286 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "name", "value": "password", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,304 DEBUG: Finished Request
+2018-08-31 18:52:31,304 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "name", "value": "password", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,313 DEBUG: Finished Request
+2018-08-31 18:52:31,313 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element/0.04616140422925019-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.04616140422925019-2", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,392 DEBUG: Finished Request
+2018-08-31 18:52:31,392 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,411 DEBUG: Finished Request
+2018-08-31 18:52:31,411 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:31,423 DEBUG: Finished Request
+2018-08-31 18:52:31,423 DEBUG: POST http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/element/0.04616140422925019-3/click {"id": "0.04616140422925019-3", "sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:37,257 DEBUG: Finished Request
+2018-08-31 18:52:42,258 DEBUG: DELETE http://127.0.0.1:62486/session/a12c19fb919bb8db1ffff92ff329e07d/window {"sessionId": "a12c19fb919bb8db1ffff92ff329e07d"}
+2018-08-31 18:52:44,576 DEBUG: Finished Request
+2018-08-31 18:54:43,089 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 18:54:43,626 DEBUG: POST http://127.0.0.1:62554/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 18:54:45,417 DEBUG: Finished Request
+2018-08-31 18:54:45,451 INFO: Login in to DC4 Prod
+2018-08-31 18:54:45,486 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,276 DEBUG: Finished Request
+2018-08-31 18:54:48,276 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "name", "value": "ssousername", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,300 DEBUG: Finished Request
+2018-08-31 18:54:48,300 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "name", "value": "ssousername", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,312 DEBUG: Finished Request
+2018-08-31 18:54:48,312 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element/0.24835385628745188-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.24835385628745188-1", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,384 DEBUG: Finished Request
+2018-08-31 18:54:48,384 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "name", "value": "password", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,402 DEBUG: Finished Request
+2018-08-31 18:54:48,402 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "name", "value": "password", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,410 DEBUG: Finished Request
+2018-08-31 18:54:48,411 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element/0.24835385628745188-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.24835385628745188-2", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,489 DEBUG: Finished Request
+2018-08-31 18:54:48,489 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,509 DEBUG: Finished Request
+2018-08-31 18:54:48,509 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:48,519 DEBUG: Finished Request
+2018-08-31 18:54:48,519 DEBUG: POST http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/element/0.24835385628745188-3/click {"id": "0.24835385628745188-3", "sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:54:53,365 DEBUG: Finished Request
+2018-08-31 18:54:58,381 DEBUG: DELETE http://127.0.0.1:62554/session/63c3d6adfbfee74b0dad327fdd075b83/window {"sessionId": "63c3d6adfbfee74b0dad327fdd075b83"}
+2018-08-31 18:55:00,468 DEBUG: Finished Request
+2018-08-31 18:55:01,196 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:10:17,539 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:10:18,096 DEBUG: POST http://127.0.0.1:63567/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:10:20,130 DEBUG: Finished Request
+2018-08-31 19:10:20,150 INFO: Login in to DC4 Prod
+2018-08-31 19:10:20,216 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:21,629 DEBUG: Finished Request
+2018-08-31 19:10:21,629 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:21,656 DEBUG: Finished Request
+2018-08-31 19:10:22,160 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:22,207 DEBUG: Finished Request
+2018-08-31 19:10:22,715 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:22,767 DEBUG: Finished Request
+2018-08-31 19:10:23,271 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:23,305 DEBUG: Finished Request
+2018-08-31 19:10:23,806 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:23,852 DEBUG: Finished Request
+2018-08-31 19:10:24,352 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:24,375 DEBUG: Finished Request
+2018-08-31 19:10:24,878 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:24,888 DEBUG: Finished Request
+2018-08-31 19:10:25,392 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:25,417 DEBUG: Finished Request
+2018-08-31 19:10:25,922 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:25,940 DEBUG: Finished Request
+2018-08-31 19:10:26,446 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:26,463 DEBUG: Finished Request
+2018-08-31 19:10:26,964 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:26,994 DEBUG: Finished Request
+2018-08-31 19:10:27,497 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:27,529 DEBUG: Finished Request
+2018-08-31 19:10:28,031 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:28,059 DEBUG: Finished Request
+2018-08-31 19:10:28,565 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:28,592 DEBUG: Finished Request
+2018-08-31 19:10:29,098 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:29,126 DEBUG: Finished Request
+2018-08-31 19:10:29,631 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:29,647 DEBUG: Finished Request
+2018-08-31 19:10:30,151 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:30,181 DEBUG: Finished Request
+2018-08-31 19:10:30,684 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:30,714 DEBUG: Finished Request
+2018-08-31 19:10:31,214 DEBUG: POST http://127.0.0.1:63567/session/9fc07f57de067a899520415dd563ebe4/element {"using": "name", "value": "ssousername", "sessionId": "9fc07f57de067a899520415dd563ebe4"}
+2018-08-31 19:10:31,244 DEBUG: Finished Request
+2018-08-31 19:10:56,856 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:10:57,406 DEBUG: POST http://127.0.0.1:63643/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:10:59,378 DEBUG: Finished Request
+2018-08-31 19:10:59,387 INFO: Login in to DC4 Prod
+2018-08-31 19:10:59,423 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:01,969 DEBUG: Finished Request
+2018-08-31 19:11:01,969 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "name", "value": "ssousername", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,001 DEBUG: Finished Request
+2018-08-31 19:11:02,002 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "name", "value": "ssousername", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,013 DEBUG: Finished Request
+2018-08-31 19:11:02,014 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element/0.044416422072413475-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.044416422072413475-1", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,085 DEBUG: Finished Request
+2018-08-31 19:11:02,085 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "name", "value": "password", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,101 DEBUG: Finished Request
+2018-08-31 19:11:02,101 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "name", "value": "password", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,110 DEBUG: Finished Request
+2018-08-31 19:11:02,110 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element/0.044416422072413475-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.044416422072413475-2", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,181 DEBUG: Finished Request
+2018-08-31 19:11:02,182 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,198 DEBUG: Finished Request
+2018-08-31 19:11:02,198 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:02,206 DEBUG: Finished Request
+2018-08-31 19:11:02,206 DEBUG: POST http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/element/0.044416422072413475-3/click {"id": "0.044416422072413475-3", "sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:11:19,586 DEBUG: Finished Request
+2018-08-31 19:11:24,589 DEBUG: DELETE http://127.0.0.1:63643/session/214646394a9a69f8355cfe886d19f4ad/window {"sessionId": "214646394a9a69f8355cfe886d19f4ad"}
+2018-08-31 19:13:50,245 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:13:50,790 DEBUG: POST http://127.0.0.1:63932/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:13:52,907 DEBUG: Finished Request
+2018-08-31 19:13:52,928 INFO: Login in to DC4 Prod
+2018-08-31 19:13:52,929 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:13:52,968 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,787 DEBUG: Finished Request
+2018-08-31 19:13:55,787 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "name", "value": "ssousername", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,817 DEBUG: Finished Request
+2018-08-31 19:13:55,817 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "name", "value": "ssousername", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,830 DEBUG: Finished Request
+2018-08-31 19:13:55,830 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element/0.17901725147965242-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.17901725147965242-1", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,904 DEBUG: Finished Request
+2018-08-31 19:13:55,904 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "name", "value": "password", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,925 DEBUG: Finished Request
+2018-08-31 19:13:55,925 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "name", "value": "password", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:55,935 DEBUG: Finished Request
+2018-08-31 19:13:55,935 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element/0.17901725147965242-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.17901725147965242-2", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:56,015 DEBUG: Finished Request
+2018-08-31 19:13:56,015 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:56,032 DEBUG: Finished Request
+2018-08-31 19:13:56,033 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:13:56,043 DEBUG: Finished Request
+2018-08-31 19:13:56,044 DEBUG: POST http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/element/0.17901725147965242-3/click {"id": "0.17901725147965242-3", "sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:14:10,115 DEBUG: Finished Request
+2018-08-31 19:14:15,116 DEBUG: DELETE http://127.0.0.1:63932/session/8f015a9c7d7c84c24d8dc2ccb197de50/window {"sessionId": "8f015a9c7d7c84c24d8dc2ccb197de50"}
+2018-08-31 19:14:17,231 DEBUG: Finished Request
+2018-08-31 19:14:17,231 ERROR: Error in SeleniumOperations.send_text(). Unknown error.
+2018-08-31 19:14:17,231 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:14:17,669 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:15:19,757 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:15:20,326 DEBUG: POST http://127.0.0.1:64100/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:15:22,344 DEBUG: Finished Request
+2018-08-31 19:15:22,367 INFO: Login in to DC4 Prod
+2018-08-31 19:15:22,452 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,791 DEBUG: Finished Request
+2018-08-31 19:15:24,791 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "name", "value": "ssousername", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,824 DEBUG: Finished Request
+2018-08-31 19:15:24,824 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "name", "value": "ssousername", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,836 DEBUG: Finished Request
+2018-08-31 19:15:24,836 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element/0.06497470801910321-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.06497470801910321-1", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,909 DEBUG: Finished Request
+2018-08-31 19:15:24,909 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "name", "value": "password", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,925 DEBUG: Finished Request
+2018-08-31 19:15:24,925 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "name", "value": "password", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,933 DEBUG: Finished Request
+2018-08-31 19:15:24,933 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element/0.06497470801910321-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.06497470801910321-2", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:24,999 DEBUG: Finished Request
+2018-08-31 19:15:24,999 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:25,014 DEBUG: Finished Request
+2018-08-31 19:15:25,014 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:25,023 DEBUG: Finished Request
+2018-08-31 19:15:25,023 DEBUG: POST http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/element/0.06497470801910321-3/click {"id": "0.06497470801910321-3", "sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:40,509 DEBUG: Finished Request
+2018-08-31 19:15:42,509 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:15:42,509 ERROR: Error in SeleniumOperations.send_text(). Unknown error.
+2018-08-31 19:15:42,509 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:15:42,509 DEBUG: DELETE http://127.0.0.1:64100/session/b8eef82264e905c3511d2b6299287cdb/window {"sessionId": "b8eef82264e905c3511d2b6299287cdb"}
+2018-08-31 19:15:44,831 DEBUG: Finished Request
+2018-08-31 19:15:45,658 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:18:47,208 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:18:47,747 DEBUG: POST http://127.0.0.1:64453/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:18:49,679 DEBUG: Finished Request
+2018-08-31 19:18:49,687 INFO: Login in to DC4 Prod
+2018-08-31 19:18:49,736 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:51,923 DEBUG: Finished Request
+2018-08-31 19:18:51,923 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "name", "value": "ssousername", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:51,956 DEBUG: Finished Request
+2018-08-31 19:18:51,956 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "name", "value": "ssousername", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:51,967 DEBUG: Finished Request
+2018-08-31 19:18:51,967 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element/0.6601270153539911-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.6601270153539911-1", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,038 DEBUG: Finished Request
+2018-08-31 19:18:52,038 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "name", "value": "password", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,058 DEBUG: Finished Request
+2018-08-31 19:18:52,058 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "name", "value": "password", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,069 DEBUG: Finished Request
+2018-08-31 19:18:52,069 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element/0.6601270153539911-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.6601270153539911-2", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,143 DEBUG: Finished Request
+2018-08-31 19:18:52,144 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,159 DEBUG: Finished Request
+2018-08-31 19:18:52,159 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:18:52,169 DEBUG: Finished Request
+2018-08-31 19:18:52,170 DEBUG: POST http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/element/0.6601270153539911-3/click {"id": "0.6601270153539911-3", "sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:19:03,316 DEBUG: Finished Request
+2018-08-31 19:19:05,320 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:19:05,320 ERROR: Error in SeleniumOperations.send_text(). Unknown error.
+2018-08-31 19:19:05,320 ERROR: Error in SeleniumOperations.Click().
+2018-08-31 19:19:05,320 DEBUG: DELETE http://127.0.0.1:64453/session/1781c8251e84dfc3893ad88ae82962ae/window {"sessionId": "1781c8251e84dfc3893ad88ae82962ae"}
+2018-08-31 19:19:07,422 DEBUG: Finished Request
+2018-08-31 19:19:08,186 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:24:33,127 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:24:33,697 DEBUG: POST http://127.0.0.1:64998/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:24:35,769 DEBUG: Finished Request
+2018-08-31 19:24:35,781 INFO: Login in to DC4 Prod
+2018-08-31 19:24:35,836 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,022 DEBUG: Finished Request
+2018-08-31 19:24:38,022 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "ssousername", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,051 DEBUG: Finished Request
+2018-08-31 19:24:38,051 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "ssousername", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,062 DEBUG: Finished Request
+2018-08-31 19:24:38,062 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.9972834502561165-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.9972834502561165-1", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,129 DEBUG: Finished Request
+2018-08-31 19:24:38,129 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "password", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,148 DEBUG: Finished Request
+2018-08-31 19:24:38,148 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "password", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,155 DEBUG: Finished Request
+2018-08-31 19:24:38,156 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.9972834502561165-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.9972834502561165-2", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,224 DEBUG: Finished Request
+2018-08-31 19:24:38,224 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,241 DEBUG: Finished Request
+2018-08-31 19:24:38,241 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:38,250 DEBUG: Finished Request
+2018-08-31 19:24:38,250 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.9972834502561165-3/click {"id": "0.9972834502561165-3", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:52,037 DEBUG: Finished Request
+2018-08-31 19:24:52,037 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "form1:commandLink1", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:52,080 DEBUG: Finished Request
+2018-08-31 19:24:52,081 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "name", "value": "form1:commandLink1", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:24:52,102 DEBUG: Finished Request
+2018-08-31 19:24:52,102 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.6164954965264868-1/click {"id": "0.6164954965264868-1", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,089 DEBUG: Finished Request
+2018-08-31 19:25:08,090 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,127 DEBUG: Finished Request
+2018-08-31 19:25:08,127 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,145 DEBUG: Finished Request
+2018-08-31 19:25:08,145 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.6592523068826712-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.6592523068826712-1", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,316 DEBUG: Finished Request
+2018-08-31 19:25:08,317 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,355 DEBUG: Finished Request
+2018-08-31 19:25:08,356 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:08,375 DEBUG: Finished Request
+2018-08-31 19:25:08,375 DEBUG: POST http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/element/0.6592523068826712-2/click {"id": "0.6592523068826712-2", "sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:11,622 DEBUG: Finished Request
+2018-08-31 19:25:11,622 DEBUG: DELETE http://127.0.0.1:64998/session/fb8158f43a8ca5460f57b112be564f31/window {"sessionId": "fb8158f43a8ca5460f57b112be564f31"}
+2018-08-31 19:25:11,746 DEBUG: Finished Request
+2018-08-31 19:25:12,503 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:32:29,775 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:32:30,338 DEBUG: POST http://127.0.0.1:49641/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:32:32,257 DEBUG: Finished Request
+2018-08-31 19:32:32,269 INFO: Login in to DC4 Prod
+2018-08-31 19:32:32,312 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/url {"url": "http://dc4ui.p01.ppd:7777/dc4custmanager/faces/home.jsp", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:33,215 DEBUG: Finished Request
+2018-08-31 19:32:33,215 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:33,246 DEBUG: Finished Request
+2018-08-31 19:32:33,748 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:33,781 DEBUG: Finished Request
+2018-08-31 19:32:34,284 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:34,318 DEBUG: Finished Request
+2018-08-31 19:32:34,821 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:34,861 DEBUG: Finished Request
+2018-08-31 19:32:35,364 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:35,400 DEBUG: Finished Request
+2018-08-31 19:32:35,902 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:35,953 DEBUG: Finished Request
+2018-08-31 19:32:36,456 DEBUG: POST http://127.0.0.1:49641/session/2450764d34a35266bd44c258b3ccc958/element {"using": "name", "value": "ssousername", "sessionId": "2450764d34a35266bd44c258b3ccc958"}
+2018-08-31 19:32:53,017 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:32:53,578 DEBUG: POST http://127.0.0.1:49814/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:32:55,564 DEBUG: Finished Request
+2018-08-31 19:32:55,601 INFO: Login in to DC4 Prod
+2018-08-31 19:32:55,710 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/url {"url": "http://dc4ui.p01.ppd:7777/dc4custmanager/faces/home.jsp", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:57,093 DEBUG: Finished Request
+2018-08-31 19:32:57,093 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:57,121 DEBUG: Finished Request
+2018-08-31 19:32:57,624 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:57,682 DEBUG: Finished Request
+2018-08-31 19:32:58,184 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:58,227 DEBUG: Finished Request
+2018-08-31 19:32:58,731 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:58,779 DEBUG: Finished Request
+2018-08-31 19:32:59,279 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:59,321 DEBUG: Finished Request
+2018-08-31 19:32:59,825 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:32:59,837 DEBUG: Finished Request
+2018-08-31 19:33:00,339 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:00,378 DEBUG: Finished Request
+2018-08-31 19:33:00,879 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:00,918 DEBUG: Finished Request
+2018-08-31 19:33:01,420 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:01,472 DEBUG: Finished Request
+2018-08-31 19:33:01,973 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,774 DEBUG: Finished Request
+2018-08-31 19:33:02,774 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "ssousername", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,785 DEBUG: Finished Request
+2018-08-31 19:33:02,785 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element/0.1917348075060903-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.1917348075060903-1", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,849 DEBUG: Finished Request
+2018-08-31 19:33:02,850 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "password", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,866 DEBUG: Finished Request
+2018-08-31 19:33:02,866 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "password", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,876 DEBUG: Finished Request
+2018-08-31 19:33:02,876 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element/0.1917348075060903-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.1917348075060903-2", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,957 DEBUG: Finished Request
+2018-08-31 19:33:02,957 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,979 DEBUG: Finished Request
+2018-08-31 19:33:02,979 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:02,989 DEBUG: Finished Request
+2018-08-31 19:33:02,989 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element/0.1917348075060903-3/click {"id": "0.1917348075060903-3", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:17,496 DEBUG: Finished Request
+2018-08-31 19:33:17,496 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "form1:commandLink1", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:17,532 DEBUG: Finished Request
+2018-08-31 19:33:17,532 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "name", "value": "form1:commandLink1", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:17,544 DEBUG: Finished Request
+2018-08-31 19:33:17,544 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element/0.6594463662149281-1/click {"id": "0.6594463662149281-1", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:30,986 DEBUG: Finished Request
+2018-08-31 19:33:30,987 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:31,012 DEBUG: Finished Request
+2018-08-31 19:33:31,012 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:31,024 DEBUG: Finished Request
+2018-08-31 19:33:31,025 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element/0.7980376464973402-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.7980376464973402-1", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:31,119 DEBUG: Finished Request
+2018-08-31 19:33:31,119 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:31,135 DEBUG: Finished Request
+2018-08-31 19:33:31,640 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:31,694 DEBUG: Finished Request
+2018-08-31 19:33:32,196 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:32,220 DEBUG: Finished Request
+2018-08-31 19:33:32,721 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:32,765 DEBUG: Finished Request
+2018-08-31 19:33:33,267 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:33,302 DEBUG: Finished Request
+2018-08-31 19:33:33,805 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:33,836 DEBUG: Finished Request
+2018-08-31 19:33:34,339 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:34,371 DEBUG: Finished Request
+2018-08-31 19:33:34,875 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:34,907 DEBUG: Finished Request
+2018-08-31 19:33:35,411 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:35,442 DEBUG: Finished Request
+2018-08-31 19:33:35,948 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:35,977 DEBUG: Finished Request
+2018-08-31 19:33:36,481 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:36,510 DEBUG: Finished Request
+2018-08-31 19:33:37,011 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:37,041 DEBUG: Finished Request
+2018-08-31 19:33:37,545 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:37,580 DEBUG: Finished Request
+2018-08-31 19:33:38,081 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:38,109 DEBUG: Finished Request
+2018-08-31 19:33:38,613 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:38,643 DEBUG: Finished Request
+2018-08-31 19:33:39,146 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:39,180 DEBUG: Finished Request
+2018-08-31 19:33:39,684 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:39,706 DEBUG: Finished Request
+2018-08-31 19:33:40,207 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:40,230 DEBUG: Finished Request
+2018-08-31 19:33:40,736 DEBUG: POST http://127.0.0.1:49814/session/2dde2bed41cfe684ba946bf5f0023d88/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]/img", "sessionId": "2dde2bed41cfe684ba946bf5f0023d88"}
+2018-08-31 19:33:40,765 DEBUG: Finished Request
+2018-08-31 19:36:05,830 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:36:06,375 DEBUG: POST http://127.0.0.1:50342/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:36:08,358 DEBUG: Finished Request
+2018-08-31 19:36:08,404 INFO: Login in to DC4 Prod
+2018-08-31 19:36:08,454 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:09,153 DEBUG: Finished Request
+2018-08-31 19:36:09,153 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:09,183 DEBUG: Finished Request
+2018-08-31 19:36:09,687 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:09,731 DEBUG: Finished Request
+2018-08-31 19:36:10,235 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:10,278 DEBUG: Finished Request
+2018-08-31 19:36:10,780 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:10,854 DEBUG: Finished Request
+2018-08-31 19:36:11,361 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:11,461 DEBUG: Finished Request
+2018-08-31 19:36:11,963 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:12,030 DEBUG: Finished Request
+2018-08-31 19:36:12,533 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:12,650 DEBUG: Finished Request
+2018-08-31 19:36:13,156 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:13,226 DEBUG: Finished Request
+2018-08-31 19:36:13,731 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,647 DEBUG: Finished Request
+2018-08-31 19:36:15,647 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "ssousername", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,662 DEBUG: Finished Request
+2018-08-31 19:36:15,663 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.3478900649333352-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.3478900649333352-1", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,741 DEBUG: Finished Request
+2018-08-31 19:36:15,741 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "password", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,758 DEBUG: Finished Request
+2018-08-31 19:36:15,758 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "password", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,766 DEBUG: Finished Request
+2018-08-31 19:36:15,766 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.3478900649333352-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.3478900649333352-2", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,833 DEBUG: Finished Request
+2018-08-31 19:36:15,833 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,849 DEBUG: Finished Request
+2018-08-31 19:36:15,849 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:15,857 DEBUG: Finished Request
+2018-08-31 19:36:15,857 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.3478900649333352-3/click {"id": "0.3478900649333352-3", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:29,398 DEBUG: Finished Request
+2018-08-31 19:36:29,400 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "form1:commandLink1", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:29,421 DEBUG: Finished Request
+2018-08-31 19:36:29,422 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "name", "value": "form1:commandLink1", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:29,431 DEBUG: Finished Request
+2018-08-31 19:36:29,432 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.560194707643614-1/click {"id": "0.560194707643614-1", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:44,979 DEBUG: Finished Request
+2018-08-31 19:36:44,981 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:45,037 DEBUG: Finished Request
+2018-08-31 19:36:45,038 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:45,059 DEBUG: Finished Request
+2018-08-31 19:36:45,059 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.25784490371999014-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.25784490371999014-1", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:45,280 DEBUG: Finished Request
+2018-08-31 19:36:45,280 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:45,310 DEBUG: Finished Request
+2018-08-31 19:36:45,310 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:45,320 DEBUG: Finished Request
+2018-08-31 19:36:45,321 DEBUG: POST http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/element/0.25784490371999014-2/click {"id": "0.25784490371999014-2", "sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:48,063 DEBUG: Finished Request
+2018-08-31 19:36:48,063 DEBUG: DELETE http://127.0.0.1:50342/session/232aa2b150093f7879372f7e69f4f15f/window {"sessionId": "232aa2b150093f7879372f7e69f4f15f"}
+2018-08-31 19:36:50,168 DEBUG: Finished Request
+2018-08-31 19:36:50,950 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:37:28,137 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:37:28,705 DEBUG: POST http://127.0.0.1:50611/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:37:30,923 DEBUG: Finished Request
+2018-08-31 19:37:30,939 INFO: Login in to DC4 Prod
+2018-08-31 19:37:30,981 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/url {"url": "http://dc4ui.p01.ppd:7777/dc4custmanager/faces/home.jsp", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:31,297 DEBUG: Finished Request
+2018-08-31 19:37:31,297 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:31,329 DEBUG: Finished Request
+2018-08-31 19:37:31,832 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:31,868 DEBUG: Finished Request
+2018-08-31 19:37:32,369 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:32,406 DEBUG: Finished Request
+2018-08-31 19:37:32,907 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:32,963 DEBUG: Finished Request
+2018-08-31 19:37:33,467 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:33,563 DEBUG: Finished Request
+2018-08-31 19:37:34,065 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:34,114 DEBUG: Finished Request
+2018-08-31 19:37:34,617 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:34,667 DEBUG: Finished Request
+2018-08-31 19:37:35,167 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:35,190 DEBUG: Finished Request
+2018-08-31 19:37:35,690 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:35,702 DEBUG: Finished Request
+2018-08-31 19:37:36,206 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,629 DEBUG: Finished Request
+2018-08-31 19:37:37,630 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "ssousername", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,639 DEBUG: Finished Request
+2018-08-31 19:37:37,640 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.8493864557799455-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.8493864557799455-1", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,716 DEBUG: Finished Request
+2018-08-31 19:37:37,716 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "password", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,734 DEBUG: Finished Request
+2018-08-31 19:37:37,734 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "password", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,743 DEBUG: Finished Request
+2018-08-31 19:37:37,743 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.8493864557799455-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.8493864557799455-2", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,816 DEBUG: Finished Request
+2018-08-31 19:37:37,817 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,835 DEBUG: Finished Request
+2018-08-31 19:37:37,835 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:37,843 DEBUG: Finished Request
+2018-08-31 19:37:37,843 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.8493864557799455-3/click {"id": "0.8493864557799455-3", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:47,241 DEBUG: Finished Request
+2018-08-31 19:37:47,242 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "form1:commandLink1", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:47,296 DEBUG: Finished Request
+2018-08-31 19:37:47,296 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "name", "value": "form1:commandLink1", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:47,327 DEBUG: Finished Request
+2018-08-31 19:37:47,328 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.0797543476486926-1/click {"id": "0.0797543476486926-1", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:59,827 DEBUG: Finished Request
+2018-08-31 19:37:59,828 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:59,869 DEBUG: Finished Request
+2018-08-31 19:37:59,870 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:37:59,886 DEBUG: Finished Request
+2018-08-31 19:37:59,887 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.38151032433282417-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.38151032433282417-1", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:38:00,057 DEBUG: Finished Request
+2018-08-31 19:38:00,057 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:38:00,076 DEBUG: Finished Request
+2018-08-31 19:38:00,077 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:38:00,088 DEBUG: Finished Request
+2018-08-31 19:38:00,088 DEBUG: POST http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/element/0.38151032433282417-2/click {"id": "0.38151032433282417-2", "sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:38:02,262 DEBUG: Finished Request
+2018-08-31 19:38:02,263 DEBUG: DELETE http://127.0.0.1:50611/session/255c97ede6a3590d76bbe7d9a7b20294/window {"sessionId": "255c97ede6a3590d76bbe7d9a7b20294"}
+2018-08-31 19:38:02,473 DEBUG: Finished Request
+2018-08-31 19:38:03,230 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:50:13,434 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:50:13,990 DEBUG: POST http://127.0.0.1:51833/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:50:15,999 DEBUG: Finished Request
+2018-08-31 19:50:16,034 INFO: Login in to DC4 Prod
+2018-08-31 19:50:16,081 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/url {"url": "http://dc4ui.p01.ppd:7777/dc4custmanager/faces/home.jsp", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:17,092 DEBUG: Finished Request
+2018-08-31 19:50:17,092 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:17,119 DEBUG: Finished Request
+2018-08-31 19:50:17,620 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:17,637 DEBUG: Finished Request
+2018-08-31 19:50:18,144 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:18,159 DEBUG: Finished Request
+2018-08-31 19:50:18,666 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:18,715 DEBUG: Finished Request
+2018-08-31 19:50:19,222 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:19,281 DEBUG: Finished Request
+2018-08-31 19:50:19,785 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:19,823 DEBUG: Finished Request
+2018-08-31 19:50:20,329 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:20,365 DEBUG: Finished Request
+2018-08-31 19:50:20,867 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:20,888 DEBUG: Finished Request
+2018-08-31 19:50:21,391 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,624 DEBUG: Finished Request
+2018-08-31 19:50:22,624 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "ssousername", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,641 DEBUG: Finished Request
+2018-08-31 19:50:22,641 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.6994733535284257-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.6994733535284257-1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,699 DEBUG: Finished Request
+2018-08-31 19:50:22,699 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "password", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,715 DEBUG: Finished Request
+2018-08-31 19:50:22,715 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "password", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,723 DEBUG: Finished Request
+2018-08-31 19:50:22,723 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.6994733535284257-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.6994733535284257-2", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,791 DEBUG: Finished Request
+2018-08-31 19:50:22,791 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,807 DEBUG: Finished Request
+2018-08-31 19:50:22,808 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:22,815 DEBUG: Finished Request
+2018-08-31 19:50:22,815 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.6994733535284257-3/click {"id": "0.6994733535284257-3", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:37,510 DEBUG: Finished Request
+2018-08-31 19:50:37,510 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "form1:commandLink1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:37,531 DEBUG: Finished Request
+2018-08-31 19:50:37,531 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "name", "value": "form1:commandLink1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:37,545 DEBUG: Finished Request
+2018-08-31 19:50:37,545 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.22810245498990578-1/click {"id": "0.22810245498990578-1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,324 DEBUG: Finished Request
+2018-08-31 19:50:52,325 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,374 DEBUG: Finished Request
+2018-08-31 19:50:52,374 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,392 DEBUG: Finished Request
+2018-08-31 19:50:52,393 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.46694028093578277-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.46694028093578277-1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,564 DEBUG: Finished Request
+2018-08-31 19:50:52,564 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,589 DEBUG: Finished Request
+2018-08-31 19:50:52,589 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:52,601 DEBUG: Finished Request
+2018-08-31 19:50:52,601 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.46694028093578277-2/click {"id": "0.46694028093578277-2", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:55,524 DEBUG: Finished Request
+2018-08-31 19:50:55,524 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "showDetailItem2", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:55,568 DEBUG: Finished Request
+2018-08-31 19:50:55,568 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "showDetailItem2", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:55,582 DEBUG: Finished Request
+2018-08-31 19:50:55,582 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.26026426033451644-1/click {"id": "0.26026426033451644-1", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,246 DEBUG: Finished Request
+2018-08-31 19:50:59,247 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "inputText49", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,317 DEBUG: Finished Request
+2018-08-31 19:50:59,317 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "inputText49", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,330 DEBUG: Finished Request
+2018-08-31 19:50:59,331 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.26026426033451644-2/value {"text": "6166651648", "value": ["6", "1", "6", "6", "6", "5", "1", "6", "4", "8"], "id": "0.26026426033451644-2", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,474 DEBUG: Finished Request
+2018-08-31 19:50:59,475 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "commandButton14", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,507 DEBUG: Finished Request
+2018-08-31 19:50:59,507 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element {"using": "id", "value": "commandButton14", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:50:59,521 DEBUG: Finished Request
+2018-08-31 19:50:59,522 DEBUG: POST http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/element/0.26026426033451644-3/click {"id": "0.26026426033451644-3", "sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:51:02,675 DEBUG: Finished Request
+2018-08-31 19:51:02,675 DEBUG: DELETE http://127.0.0.1:51833/session/4017703b1af07086f967a98bd7edaf8d/window {"sessionId": "4017703b1af07086f967a98bd7edaf8d"}
+2018-08-31 19:51:02,825 DEBUG: Finished Request
+2018-08-31 19:51:03,574 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:51:58,814 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:51:59,378 DEBUG: POST http://127.0.0.1:52020/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:52:01,531 DEBUG: Finished Request
+2018-08-31 19:52:01,548 INFO: Login in to DC4 Prod
+2018-08-31 19:52:01,585 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:02,243 DEBUG: Finished Request
+2018-08-31 19:52:02,244 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:02,270 DEBUG: Finished Request
+2018-08-31 19:52:02,773 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:02,793 DEBUG: Finished Request
+2018-08-31 19:52:03,293 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:03,312 DEBUG: Finished Request
+2018-08-31 19:52:03,817 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:03,859 DEBUG: Finished Request
+2018-08-31 19:52:04,363 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:04,429 DEBUG: Finished Request
+2018-08-31 19:52:04,930 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:04,943 DEBUG: Finished Request
+2018-08-31 19:52:05,443 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:05,463 DEBUG: Finished Request
+2018-08-31 19:52:05,968 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:06,003 DEBUG: Finished Request
+2018-08-31 19:52:06,504 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,206 DEBUG: Finished Request
+2018-08-31 19:52:08,207 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "ssousername", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,216 DEBUG: Finished Request
+2018-08-31 19:52:08,216 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.5559665062065129-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.5559665062065129-1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,280 DEBUG: Finished Request
+2018-08-31 19:52:08,281 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "password", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,297 DEBUG: Finished Request
+2018-08-31 19:52:08,297 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "password", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,305 DEBUG: Finished Request
+2018-08-31 19:52:08,306 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.5559665062065129-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.5559665062065129-2", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,370 DEBUG: Finished Request
+2018-08-31 19:52:08,371 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,386 DEBUG: Finished Request
+2018-08-31 19:52:08,386 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:08,395 DEBUG: Finished Request
+2018-08-31 19:52:08,395 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.5559665062065129-3/click {"id": "0.5559665062065129-3", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:21,756 DEBUG: Finished Request
+2018-08-31 19:52:21,757 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "form1:commandLink1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:21,792 DEBUG: Finished Request
+2018-08-31 19:52:21,792 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "name", "value": "form1:commandLink1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:21,813 DEBUG: Finished Request
+2018-08-31 19:52:21,814 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.11168686548408302-1/click {"id": "0.11168686548408302-1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,047 DEBUG: Finished Request
+2018-08-31 19:52:38,048 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,095 DEBUG: Finished Request
+2018-08-31 19:52:38,095 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,112 DEBUG: Finished Request
+2018-08-31 19:52:38,114 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.3989477561157224-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.3989477561157224-1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,276 DEBUG: Finished Request
+2018-08-31 19:52:38,276 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,296 DEBUG: Finished Request
+2018-08-31 19:52:38,297 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:38,307 DEBUG: Finished Request
+2018-08-31 19:52:38,307 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.3989477561157224-2/click {"id": "0.3989477561157224-2", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:41,138 DEBUG: Finished Request
+2018-08-31 19:52:41,138 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "showDetailItem2", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:41,170 DEBUG: Finished Request
+2018-08-31 19:52:41,170 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "showDetailItem2", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:41,187 DEBUG: Finished Request
+2018-08-31 19:52:41,187 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.14671933505515122-1/click {"id": "0.14671933505515122-1", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,584 DEBUG: Finished Request
+2018-08-31 19:52:44,586 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "inputText49", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,622 DEBUG: Finished Request
+2018-08-31 19:52:44,622 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "inputText49", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,639 DEBUG: Finished Request
+2018-08-31 19:52:44,639 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.14671933505515122-2/value {"text": "6166651648", "value": ["6", "1", "6", "6", "6", "5", "1", "6", "4", "8"], "id": "0.14671933505515122-2", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,769 DEBUG: Finished Request
+2018-08-31 19:52:44,770 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "commandButton14", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,790 DEBUG: Finished Request
+2018-08-31 19:52:44,790 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element {"using": "id", "value": "commandButton14", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:44,800 DEBUG: Finished Request
+2018-08-31 19:52:44,801 DEBUG: POST http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/element/0.14671933505515122-3/click {"id": "0.14671933505515122-3", "sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:48,679 DEBUG: Finished Request
+2018-08-31 19:52:48,679 DEBUG: DELETE http://127.0.0.1:52020/session/4834b9b08bb59bdc2a644a081a804731/window {"sessionId": "4834b9b08bb59bdc2a644a081a804731"}
+2018-08-31 19:52:48,824 DEBUG: Finished Request
+2018-08-31 19:52:49,574 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None
+2018-08-31 19:57:26,920 INFO: Executing Script Prodution Data Monitoring
+2018-08-31 19:57:27,472 DEBUG: POST http://127.0.0.1:52555/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any"}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "chromeOptions": {"extensions": [], "args": []}}}
+2018-08-31 19:57:29,503 DEBUG: Finished Request
+2018-08-31 19:57:29,544 INFO: Login in to DC4 Prod
+2018-08-31 19:57:29,634 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/url {"url": "http://dc4ui.p01.pro:7777/dc4custmanager/faces/home.jsp", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:30,429 DEBUG: Finished Request
+2018-08-31 19:57:30,430 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:30,457 DEBUG: Finished Request
+2018-08-31 19:57:30,963 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:31,008 DEBUG: Finished Request
+2018-08-31 19:57:31,511 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:31,533 DEBUG: Finished Request
+2018-08-31 19:57:32,038 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:32,095 DEBUG: Finished Request
+2018-08-31 19:57:32,598 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:32,673 DEBUG: Finished Request
+2018-08-31 19:57:33,178 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:33,259 DEBUG: Finished Request
+2018-08-31 19:57:33,760 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:33,857 DEBUG: Finished Request
+2018-08-31 19:57:34,360 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:34,429 DEBUG: Finished Request
+2018-08-31 19:57:34,933 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:35,846 DEBUG: Finished Request
+2018-08-31 19:57:36,348 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:36,414 DEBUG: Finished Request
+2018-08-31 19:57:36,918 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:36,959 DEBUG: Finished Request
+2018-08-31 19:57:37,465 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:37,540 DEBUG: Finished Request
+2018-08-31 19:57:38,042 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:38,070 DEBUG: Finished Request
+2018-08-31 19:57:38,572 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:38,590 DEBUG: Finished Request
+2018-08-31 19:57:39,091 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:39,106 DEBUG: Finished Request
+2018-08-31 19:57:39,610 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:40,892 DEBUG: Finished Request
+2018-08-31 19:57:40,892 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "ssousername", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:40,906 DEBUG: Finished Request
+2018-08-31 19:57:40,907 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.6837975038846644-1/value {"text": "kpandya", "value": ["k", "p", "a", "n", "d", "y", "a"], "id": "0.6837975038846644-1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:40,981 DEBUG: Finished Request
+2018-08-31 19:57:40,981 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "password", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:41,004 DEBUG: Finished Request
+2018-08-31 19:57:41,004 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "password", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:41,015 DEBUG: Finished Request
+2018-08-31 19:57:41,016 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.6837975038846644-2/value {"text": "Pashiben@007", "value": ["P", "a", "s", "h", "i", "b", "e", "n", "@", "0", "0", "7"], "id": "0.6837975038846644-2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:41,106 DEBUG: Finished Request
+2018-08-31 19:57:41,107 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:41,127 DEBUG: Finished Request
+2018-08-31 19:57:41,128 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "/html/body/center/table/tbody/tr[3]/td/font/input[1]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:41,139 DEBUG: Finished Request
+2018-08-31 19:57:41,140 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.6837975038846644-3/click {"id": "0.6837975038846644-3", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:53,926 DEBUG: Finished Request
+2018-08-31 19:57:53,926 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "form1:commandLink1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:53,969 DEBUG: Finished Request
+2018-08-31 19:57:53,969 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "name", "value": "form1:commandLink1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:57:53,980 DEBUG: Finished Request
+2018-08-31 19:57:53,981 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.2714190024383014-1/click {"id": "0.2714190024383014-1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,179 DEBUG: Finished Request
+2018-08-31 19:58:09,179 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,227 DEBUG: Finished Request
+2018-08-31 19:58:09,228 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "//*[@id=\"inputText41\"]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,248 DEBUG: Finished Request
+2018-08-31 19:58:09,249 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.28881766752298166-1/value {"text": "Midlab Inc", "value": ["M", "i", "d", "l", "a", "b", " ", "I", "n", "c"], "id": "0.28881766752298166-1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,456 DEBUG: Finished Request
+2018-08-31 19:58:09,457 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,484 DEBUG: Finished Request
+2018-08-31 19:58:09,485 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "xpath", "value": "//*[@id=\"commandButton12\"]", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:09,498 DEBUG: Finished Request
+2018-08-31 19:58:09,498 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.28881766752298166-2/click {"id": "0.28881766752298166-2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:12,909 DEBUG: Finished Request
+2018-08-31 19:58:12,913 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "showDetailItem2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:12,954 DEBUG: Finished Request
+2018-08-31 19:58:12,955 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "showDetailItem2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:12,972 DEBUG: Finished Request
+2018-08-31 19:58:12,972 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.056800385402918874-1/click {"id": "0.056800385402918874-1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,310 DEBUG: Finished Request
+2018-08-31 19:58:16,311 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "inputText49", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,368 DEBUG: Finished Request
+2018-08-31 19:58:16,369 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "inputText49", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,395 DEBUG: Finished Request
+2018-08-31 19:58:16,396 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.056800385402918874-2/value {"text": "6166651648", "value": ["6", "1", "6", "6", "6", "5", "1", "6", "4", "8"], "id": "0.056800385402918874-2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,605 DEBUG: Finished Request
+2018-08-31 19:58:16,605 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "commandButton14", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,638 DEBUG: Finished Request
+2018-08-31 19:58:16,639 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "commandButton14", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:16,654 DEBUG: Finished Request
+2018-08-31 19:58:16,655 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.056800385402918874-3/click {"id": "0.056800385402918874-3", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:20,016 DEBUG: Finished Request
+2018-08-31 19:58:20,017 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "showDetailItem3", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:20,069 DEBUG: Finished Request
+2018-08-31 19:58:20,070 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "showDetailItem3", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:20,096 DEBUG: Finished Request
+2018-08-31 19:58:20,096 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.7467289967261523-1/click {"id": "0.7467289967261523-1", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:22,975 DEBUG: Finished Request
+2018-08-31 19:58:22,979 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "inputText66", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:23,007 DEBUG: Finished Request
+2018-08-31 19:58:23,008 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "inputText66", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:23,022 DEBUG: Finished Request
+2018-08-31 19:58:23,022 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.7467289967261523-2/value {"text": "620TSTWONDERTRE", "value": ["6", "2", "0", "T", "S", "T", "W", "O", "N", "D", "E", "R", "T", "R", "E"], "id": "0.7467289967261523-2", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:23,171 DEBUG: Finished Request
+2018-08-31 19:58:23,172 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "commandButton16", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:23,190 DEBUG: Finished Request
+2018-08-31 19:58:23,190 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element {"using": "id", "value": "commandButton16", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:23,199 DEBUG: Finished Request
+2018-08-31 19:58:23,199 DEBUG: POST http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/element/0.7467289967261523-3/click {"id": "0.7467289967261523-3", "sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:26,466 DEBUG: Finished Request
+2018-08-31 19:58:26,467 DEBUG: DELETE http://127.0.0.1:52555/session/f69548135cdf09463e4a515b84bba16c/window {"sessionId": "f69548135cdf09463e4a515b84bba16c"}
+2018-08-31 19:58:26,704 DEBUG: Finished Request
+2018-08-31 19:58:27,466 DEBUG: "POST /v4/spreadsheets/1QYmvVy_Okydw0KEyn-Qv1o0-Ic86Wg3O4kaUo62MgUU/values/Production%20Data%20Monitoring:append?valueInputOption=RAW HTTP/1.1" 200 None

@@ -1,0 +1,15 @@
+ERROR_HOSPITAL_TAB_ID = 'form1:menuTabs1:7:commandMenuItem1'
+TICKET_UID_ID = 'form1:inputText1'
+TITLE_ID = 'form1:inputText18'
+SENDER_NAME_ID = 'form1:inputText13'
+RECEIVER_NAME_ID = 'form1:inputText15'
+START_DATE_ID = 'form1:inputCalendar1'
+DESCRIPTION_ID = 'form1:inputText2222'
+SEARCH_BUTTON_ID = 'form1:commandButton7'
+ADHOC_ERROR_TITLE = 'AdhocReporting: document rejected'
+EH_SHOW_ALL_TAB_XPATH = '//*[@id="form1:table1-nb__xc_c"]/option[1]'
+EH_FIRST_TICKET_UID_XPATH = '//*[@id="form1:table1"]/table[2]/tbody/tr[2]/td[3]'
+
+EH_DOCTYPE_INFO_XPATH = '//*[@id="form1:_idJsp36"]'
+EH_DESCRIPTION_INFO_XPATH = '//*[@id="form1:inputText25"]'
+

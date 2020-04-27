@@ -1,0 +1,307 @@
+2018-10-16 13:07:56,668 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:08:08,058 INFO: Login in to Launchpad
+2018-10-16 13:08:44,459 INFO: Refreshing access_token
+2018-10-16 13:08:53,760 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:08:54,775 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:09:03,546 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:09:30,644 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:09:31,657 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:09:40,317 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:16:35,345 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:16:39,218 INFO: Login in to Launchpad
+2018-10-16 13:17:04,002 INFO: Refreshing access_token
+2018-10-16 13:17:10,293 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:17:11,317 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:17:20,352 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:19:11,159 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:19:14,999 INFO: Login in to Launchpad
+2018-10-16 13:19:31,883 INFO: Refreshing access_token
+2018-10-16 13:19:37,264 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:19:38,284 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:19:46,971 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:34:46,738 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:34:50,584 INFO: Login in to Launchpad
+2018-10-16 13:35:06,984 INFO: Refreshing access_token
+2018-10-16 13:35:13,436 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:35:15,458 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:35:24,191 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:51:09,746 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:51:13,251 INFO: Login in to Launchpad
+2018-10-16 13:51:29,107 INFO: Refreshing access_token
+2018-10-16 13:51:35,449 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:51:37,464 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:51:46,176 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:52:14,705 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:52:16,717 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:52:25,449 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:54:01,746 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:54:05,746 INFO: Login in to Launchpad
+2018-10-16 13:54:23,751 INFO: Refreshing access_token
+2018-10-16 13:54:29,530 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:54:31,544 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:54:40,238 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:55:08,924 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:55:10,935 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:55:19,714 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:55:37,656 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:55:39,667 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:57:37,823 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 13:57:41,571 INFO: Login in to Launchpad
+2018-10-16 13:58:02,083 INFO: Refreshing access_token
+2018-10-16 13:58:07,652 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:58:09,903 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:58:18,660 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:58:47,582 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:58:49,740 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:58:58,525 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:59:17,228 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:59:19,244 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:59:27,979 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 13:59:56,330 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 13:59:58,353 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:00:07,047 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:06:23,770 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:06:30,185 INFO: Login in to Launchpad
+2018-10-16 14:06:48,129 INFO: Refreshing access_token
+2018-10-16 14:06:54,382 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:06:56,397 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:07:05,063 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:07:34,223 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:07:36,237 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:07:45,000 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:08:03,664 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:08:05,677 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:08:14,549 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:15:37,705 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:15:42,176 INFO: Login in to Launchpad
+2018-10-16 14:16:01,059 INFO: Refreshing access_token
+2018-10-16 14:16:07,672 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:16:09,691 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:16:18,588 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:18:27,647 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:18:31,590 INFO: Login in to Launchpad
+2018-10-16 14:18:49,066 INFO: Refreshing access_token
+2018-10-16 14:18:54,309 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:18:56,548 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:19:05,620 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:38:09,957 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:38:14,840 INFO: Login in to Launchpad
+2018-10-16 14:38:32,824 INFO: Refreshing access_token
+2018-10-16 14:38:39,265 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:38:42,803 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:38:51,514 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:40:04,027 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:40:07,431 INFO: Login in to Launchpad
+2018-10-16 14:40:24,128 INFO: Refreshing access_token
+2018-10-16 14:40:29,379 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:40:31,394 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:40:40,435 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:41:08,914 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:41:10,927 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:41:19,702 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:42:49,648 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:42:53,892 INFO: Login in to Launchpad
+2018-10-16 14:43:09,964 INFO: Refreshing access_token
+2018-10-16 14:43:16,286 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:43:18,302 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:43:26,992 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:43:55,316 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:43:57,328 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:44:06,060 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:44:23,973 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:44:25,985 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:46:22,876 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-16 14:46:27,202 INFO: Login in to Launchpad
+2018-10-16 14:46:45,186 INFO: Refreshing access_token
+2018-10-16 14:46:50,752 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:46:52,767 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:47:01,496 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:47:32,114 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:47:34,127 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:47:42,837 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:48:03,484 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:48:05,498 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:48:14,214 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:48:44,698 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:48:46,711 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:48:55,453 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:49:25,689 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:49:27,702 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:49:36,411 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:50:23,727 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:50:25,740 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:50:34,473 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:50:55,408 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:50:57,424 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:51:06,173 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:51:57,622 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:51:59,636 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:52:08,345 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:52:29,176 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:52:31,190 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:52:39,880 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:53:00,950 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:53:02,962 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:53:11,699 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:53:53,123 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:53:55,137 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:54:03,831 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:54:48,764 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:54:50,778 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:54:59,521 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:55:20,429 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:55:22,446 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:55:31,304 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:55:51,899 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:55:53,913 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:56:02,741 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:57:17,982 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:57:20,013 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:57:28,722 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:57:49,630 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:57:51,643 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:58:00,294 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:58:34,494 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:58:36,509 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:58:45,233 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:59:12,398 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:59:14,412 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:59:23,199 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 14:59:50,478 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 14:59:52,494 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:00:01,450 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:00:37,439 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:00:39,453 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:00:48,245 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:01:21,352 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:01:23,367 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:01:32,140 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:01:53,003 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:01:55,015 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:02:03,767 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:02:34,606 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:02:36,619 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:02:45,503 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:03:14,035 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:03:16,053 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:03:24,770 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:03:45,669 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:03:47,684 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:03:56,623 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:04:31,920 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:04:33,932 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:04:42,759 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:05:38,462 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:05:40,476 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:05:49,329 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:06:17,384 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:06:19,397 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:06:28,175 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:07:20,227 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:07:22,241 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:07:30,917 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:07:52,392 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:07:54,406 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:08:03,067 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:09:21,453 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:09:23,467 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:09:32,169 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:09:52,651 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:09:54,665 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:10:03,344 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:10:33,674 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:10:35,687 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:10:44,371 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:11:21,597 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:11:23,611 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:11:32,357 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:12:09,223 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:12:11,237 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:12:19,923 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:12:50,535 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:12:52,549 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:13:01,226 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:13:45,256 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:13:47,271 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:13:55,963 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:15:07,850 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:15:09,863 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:15:18,547 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:15:48,580 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:15:50,596 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:15:59,278 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:16:29,973 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:16:31,987 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:16:40,717 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:17:01,951 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:17:03,962 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:17:12,689 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:18:17,762 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:18:19,776 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:18:28,469 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:19:03,261 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:19:05,276 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:19:13,926 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:19:44,478 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:19:46,493 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:19:55,209 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:20:28,665 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:20:30,679 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:20:39,375 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:20:59,931 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:21:01,945 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:21:10,647 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:21:58,161 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:22:00,175 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:22:08,815 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:22:36,241 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:22:38,255 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:22:46,981 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:24:37,038 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:24:39,053 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:24:47,713 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:25:25,453 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:25:27,468 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:25:36,188 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:26:09,813 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:26:11,832 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:26:20,566 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:27:11,291 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:27:13,307 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:27:22,104 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:27:43,208 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:27:45,222 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:27:53,987 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:28:14,543 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:28:16,557 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:28:25,252 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:29:23,651 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:29:25,667 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:29:34,389 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:30:14,517 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:30:16,531 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:30:25,222 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:32:06,689 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:32:08,705 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:32:17,581 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:35:02,352 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:35:04,372 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:35:13,121 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:35:42,659 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:35:44,676 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:35:53,495 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:37:26,040 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:37:28,055 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:37:36,793 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:39:41,690 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:39:43,706 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:39:52,526 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:40:13,357 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:40:15,371 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:40:24,090 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:41:34,850 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:41:36,868 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:41:45,643 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:42:36,367 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-16 15:42:38,381 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-16 15:42:47,048 INFO: Executing method 'select_customer' from TransactionTrackerOperations

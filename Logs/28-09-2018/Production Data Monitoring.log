@@ -1,0 +1,55 @@
+2018-09-28 12:50:05,990 INFO: Executing Script Prodution Data Monitoring
+2018-09-28 12:50:09,988 INFO: Login in to Launchpad
+2018-09-28 12:50:24,475 INFO: Refreshing access_token
+2018-09-28 12:50:28,420 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 12:50:28,665 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:50:35,702 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:50:57,971 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 12:52:47,718 INFO: Executing Script Prodution Data Monitoring
+2018-09-28 12:52:51,288 INFO: Login in to Launchpad
+2018-09-28 12:53:07,544 INFO: Refreshing access_token
+2018-09-28 12:53:11,042 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 12:53:11,062 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:53:18,410 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:53:40,967 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 12:53:49,603 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 12:53:49,651 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:53:56,897 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:54:20,309 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 12:54:27,262 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 12:54:27,278 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:54:34,407 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:54:56,663 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 12:55:04,568 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 12:55:04,596 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 12:55:11,773 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:44:32,669 INFO: Executing Script Prodution Data Monitoring
+2018-09-28 14:44:36,217 INFO: Login in to Launchpad
+2018-09-28 14:44:53,516 INFO: Refreshing access_token
+2018-09-28 14:44:56,918 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:44:56,967 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:45:03,986 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:45:26,147 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 14:50:25,277 INFO: Executing Script Prodution Data Monitoring
+2018-09-28 14:50:28,745 INFO: Login in to Launchpad
+2018-09-28 14:50:44,450 INFO: Refreshing access_token
+2018-09-28 14:50:47,987 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:50:48,015 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:50:54,975 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:51:17,118 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 14:51:25,407 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:51:25,435 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:51:32,257 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:51:54,273 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 14:52:01,233 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:52:01,289 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:52:08,267 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:52:30,582 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 14:52:38,445 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:52:38,493 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:52:45,347 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:53:07,489 INFO: Executing method 'get_parcel' from TransactionTrackerOperations
+2018-09-28 14:53:15,616 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-28 14:53:15,644 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:53:22,595 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-28 14:53:45,396 INFO: Executing method 'get_parcel' from TransactionTrackerOperations

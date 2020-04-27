@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "production-data-monitoring",
+  "private_key_id": "b797de93f73f6595c2231c152c87144108ee88a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzhGm/vyEZHWWq\nw6zkHtj8oHST7nv0e1lZ975Z4GlN3jje+I0ews1e0MDjNaiv5mdrUgnAtwnHdW8X\nkfABpHpOi7w4j22JKR9U6Bf9Q6wrMKmLcFDIEEaJqpG5IyAIxL0xU1fwGxVch5rF\nf2YBRIIgr3vSDDM01l+aAYQKTeltjqGqFmw2iqz5Gkr8r0xQ/hZxHLyIclTbmS7S\n+s4wXJu6U8AFFDjNvFsFwxOFL+2O6Xp0Dk1iVY+3CBVoAlVzTSOe3Rb8HDMRnGqf\nqTwdxeOAU9S171YTQSt6/jkupAiFynJUhTWTkw7qmn+fHL3VOfcgLXVfIRGlKKUg\nV8Kg16ETAgMBAAECggEAFG3DIwD7IUKJKU+vQx6HjugrnBINpRrMZkKdNNkm4qeh\nTS530MJWYK3c5X5bvfi4WCwz0+yAfmRMyh/fcjBngrzAJKedzXgSirUG1dl3pEqb\nYLTdXIcNn+j7QFhQ8u6AoTZc0YQjgC4mXMdMsmQ7csDFlHey9BZZNstpXUrUf5UE\n13HxeNSnWs0/3b7mUVK7iwqd/KmERS1QgVCvorl5LTFz8/RXzp1U+DH//aFnZRXP\n5xiwXmj3vPxqPezXowJ8vJe7UQmHwwsFvjRekoxJ5FdARSGQ6JeZf4kVZfijLP6u\nFutmc+DgMOQ4naEXTtqle/2APq+0zNWD+zMg9XHscQKBgQDfZTla0mH+Nc0Iuhac\nqyHMR2ahbgNq2YivO9Ei3aksfvpsXnYjebNeD8m/R3vl5fRcWP2W68PDQcGeJqP3\nQuKfYamqE6DI9SKoWLQvSOS6jjwfV6opvPLKagU0XYsTrAIeaMPOrXUnrSOYS7De\nV2W0/wtiaFIk3qWkB5vwiW0TtQKBgQDNt8IxoXXFgU6tdYJfUYVY/9Qjxy0u12Cx\nnZM41U5Qly65RlvGRyiDZVyGBpjgpj0ZRNp/KUqIoeSqHTiOYyUedgcmCKZ//cL7\njwl7QnxdcTH7GsqywCYT7qCQarzJi2NOB9nulAh7VBrtlAg6YzGuTT3wOF8ts2p3\nxRQZvlhupwKBgQCE4mmjpNG1rbsxHcCloQaRxUc/b3mI7a1oz2QwITqoxT+hhu8v\nWw1fPnT720HQF2GsLSNrywK/+zV5JfMS+i5kMGwER3i1EVx0V4+XMP0eG82Xt0X5\nXfPug/Jkm+BG62K3RAp1vqiZ2Vv7E8s59zMA31WeS//Q/r/5Oq1//79qoQKBgFn4\nz4cTXcXm2vlEVqPHrLGTGj4Xo6xD6HdmOnh12k2nAXloy0S55H8rOr8nbX97VWeS\n1Jke/wko/TBlnVGxDQ/4gQHicKez3a5WDciJ+IiJtFlli1eIcF7xU+o1tKHVQ7Zh\n+q+8sMT3sNtNjhezQIxCHh/NF9uOB7egSz1DIbwrAoGBANvXerk3Anic4aAXWAKD\nu7BTPHlwKYK09Ca3gFWz0ibuJfCgLe9YWccEZ5F6T6dxHBb1maVwQMC+69cajUT0\nTFCzKSBhl9kvo8G9QLNV22i7Ps35J12X3VuMWViycssGLNXdottwXanCRsYfOaI7\nYQBGxsBwoJ7XAh/QEIQ10FVy\n-----END PRIVATE KEY-----\n",
+  "client_email": "production-data-monitoring@production-data-monitoring.iam.gserviceaccount.com",
+  "client_id": "106809775901277195080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/production-data-monitoring%40production-data-monitoring.iam.gserviceaccount.com"
+}

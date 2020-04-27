@@ -1,0 +1,180 @@
+2018-09-27 11:45:59,128 INFO: Executing Script Process Test File
+2018-09-27 11:46:02,246 INFO: Login in to Launchpad
+2018-09-27 11:46:15,143 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 11:48:08,982 INFO: Executing Script Process Test File
+2018-09-27 11:48:11,456 INFO: Login in to Launchpad
+2018-09-27 11:48:23,786 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 11:49:02,802 INFO: Executing Script Process Test File
+2018-09-27 11:49:05,409 INFO: Login in to Launchpad
+2018-09-27 11:49:48,058 INFO: Executing Script Process Test File
+2018-09-27 11:49:51,093 INFO: Login in to Launchpad
+2018-09-27 11:50:07,215 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 11:50:07,252 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 11:51:03,241 INFO: Executing Script Process Test File
+2018-09-27 11:51:06,003 INFO: Login in to Launchpad
+2018-09-27 11:51:21,797 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 11:52:01,319 INFO: Executing Script Process Test File
+2018-09-27 11:52:03,872 INFO: Login in to Launchpad
+2018-09-27 11:52:23,745 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 11:52:23,837 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 11:52:30,587 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:46:57,564 INFO: Executing Script Process Test File
+2018-09-27 13:47:01,487 INFO: Login in to Launchpad
+2018-09-27 13:47:17,724 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 13:47:17,757 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:47:24,572 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:52:52,185 INFO: Executing Script Process Test File
+2018-09-27 13:53:21,605 INFO: Executing Script Process Test File
+2018-09-27 13:53:25,601 INFO: Login in to Launchpad
+2018-09-27 13:53:41,392 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 13:53:41,468 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:53:48,279 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:55:22,883 INFO: Executing Script Process Test File
+2018-09-27 13:55:26,509 INFO: Login in to Launchpad
+2018-09-27 13:55:41,776 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 13:55:41,792 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 13:55:48,583 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:09:48,779 INFO: Executing Script Process Test File
+2018-09-27 14:09:55,248 INFO: Login in to Launchpad
+2018-09-27 14:10:11,632 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:10:11,745 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:10:18,748 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:15:33,967 INFO: Executing Script Process Test File
+2018-09-27 14:15:38,275 INFO: Login in to Launchpad
+2018-09-27 14:15:54,932 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:15:54,950 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:16:01,793 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:18:28,419 INFO: Executing Script Process Test File
+2018-09-27 14:18:32,555 INFO: Login in to Launchpad
+2018-09-27 14:18:49,572 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:18:49,590 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:18:56,382 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:22:00,299 INFO: Executing Script Process Test File
+2018-09-27 14:22:05,385 INFO: Login in to Launchpad
+2018-09-27 14:22:24,242 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:22:24,253 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:22:31,054 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:32:06,800 INFO: Executing Script Process Test File
+2018-09-27 14:32:13,397 INFO: Login in to Launchpad
+2018-09-27 14:32:37,918 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:32:38,823 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:32:45,658 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:46:55,516 INFO: Executing Script Process Test File
+2018-09-27 14:47:01,405 INFO: Login in to Launchpad
+2018-09-27 14:47:20,154 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:47:20,170 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:47:27,699 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:55:06,588 INFO: Executing Script Process Test File
+2018-09-27 14:55:11,023 INFO: Login in to Launchpad
+2018-09-27 14:55:34,777 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 14:55:34,809 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 14:55:41,754 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 15:48:59,228 INFO: Executing Script Process Test File
+2018-09-27 15:49:05,995 INFO: Login in to Launchpad
+2018-09-27 15:49:23,964 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 15:49:23,988 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 15:49:30,932 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 15:53:52,905 INFO: Executing Script Process Test File
+2018-09-27 15:53:58,388 INFO: Login in to Launchpad
+2018-09-27 15:55:52,604 INFO: Executing Script Process Test File
+2018-09-27 15:55:56,324 INFO: Login in to Launchpad
+2018-09-27 15:56:58,800 INFO: Executing Script Process Test File
+2018-09-27 15:57:02,512 INFO: Login in to Launchpad
+2018-09-27 15:58:25,783 INFO: Executing Script Process Test File
+2018-09-27 15:58:29,571 INFO: Login in to Launchpad
+2018-09-27 15:59:47,809 INFO: Executing Script Process Test File
+2018-09-27 15:59:51,435 INFO: Login in to Launchpad
+2018-09-27 16:00:32,772 INFO: Executing Script Process Test File
+2018-09-27 16:00:36,377 INFO: Login in to Launchpad
+2018-09-27 16:02:12,888 INFO: Executing Script Process Test File
+2018-09-27 16:02:17,121 INFO: Login in to Launchpad
+2018-09-27 16:02:33,840 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 16:02:34,166 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:02:40,755 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:04:44,241 INFO: Executing Script Process Test File
+2018-09-27 16:04:50,358 INFO: Login in to Launchpad
+2018-09-27 16:05:09,960 INFO: Executing method 'search_process_for_process_test_file' from TransactionTrackerOperations
+2018-09-27 16:05:09,992 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:05:16,807 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:09:16,767 INFO: Executing Script Process Test File
+2018-09-27 16:09:21,600 INFO: Login in to Launchpad
+2018-09-27 16:09:38,718 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 16:09:38,754 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:09:45,759 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:16:04,986 INFO: Executing Script Process Test File
+2018-09-27 16:16:08,882 INFO: Login in to Launchpad
+2018-09-27 16:16:33,711 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 16:16:33,755 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:16:40,556 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:18:23,339 INFO: Executing Script Process Test File
+2018-09-27 16:18:27,341 INFO: Login in to Launchpad
+2018-09-27 16:18:43,300 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 16:18:43,312 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:18:50,292 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:19:57,731 INFO: Executing Script Process Test File
+2018-09-27 16:20:01,666 INFO: Login in to Launchpad
+2018-09-27 16:20:18,463 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 16:20:18,479 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:20:25,630 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:21:58,125 INFO: Executing Script Process Test File
+2018-09-27 16:22:01,861 INFO: Login in to Launchpad
+2018-09-27 16:22:27,445 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 16:22:27,701 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:22:34,504 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 16:58:23,756 INFO: Executing Script Process Test File
+2018-09-27 16:59:43,042 INFO: Executing Script Process Test File
+2018-09-27 17:51:55,429 INFO: Executing Script Process Test File
+2018-09-27 17:52:01,626 INFO: Login in to Launchpad
+2018-09-27 17:52:19,363 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 17:52:19,719 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 17:52:26,188 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 17:54:34,223 INFO: Executing Script Process Test File
+2018-09-27 17:54:39,170 INFO: Login in to Launchpad
+2018-09-27 17:54:56,408 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 17:54:56,496 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 17:55:03,418 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:05:23,886 INFO: Executing Script Process Test File
+2018-09-27 18:05:27,748 INFO: Login in to Launchpad
+2018-09-27 18:05:44,284 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:05:44,296 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:05:51,683 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:06:59,894 INFO: Executing Script Process Test File
+2018-09-27 18:07:03,755 INFO: Login in to Launchpad
+2018-09-27 18:07:20,313 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:07:20,473 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:07:27,905 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:09:07,451 INFO: Executing Script Process Test File
+2018-09-27 18:09:11,199 INFO: Login in to Launchpad
+2018-09-27 18:09:27,887 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:09:27,920 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:09:35,280 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:24:32,990 INFO: Executing Script Process Test File
+2018-09-27 18:24:36,815 INFO: Login in to Launchpad
+2018-09-27 18:24:52,403 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:24:52,435 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:24:59,469 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:28:32,752 INFO: Executing Script Process Test File
+2018-09-27 18:28:36,457 INFO: Login in to Launchpad
+2018-09-27 18:28:53,101 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:28:53,137 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:29:00,326 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:31:51,120 INFO: Executing Script Process Test File
+2018-09-27 18:31:55,097 INFO: Login in to Launchpad
+2018-09-27 18:32:11,064 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:32:11,393 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:32:18,257 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:50:01,396 INFO: Executing Script Process Test File
+2018-09-27 18:50:05,287 INFO: Login in to Launchpad
+2018-09-27 18:50:21,514 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:50:21,674 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:50:29,023 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:52:39,939 INFO: Executing Script Process Test File
+2018-09-27 18:52:43,790 INFO: Login in to Launchpad
+2018-09-27 18:53:00,003 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 18:53:00,155 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 18:53:07,514 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 19:02:13,903 INFO: Executing Script Process Test File
+2018-09-27 19:02:17,904 INFO: Login in to Launchpad
+2018-09-27 19:02:34,364 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-09-27 19:02:34,392 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-09-27 19:02:41,435 INFO: Executing method 'select_customer' from TransactionTrackerOperations

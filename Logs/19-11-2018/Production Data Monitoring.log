@@ -1,0 +1,19 @@
+2018-11-19 14:31:21,381 INFO: Executing Script Prodution Data Monitoring
+2018-11-19 14:31:21,506 INFO: Executing ProductionDataMonitoring.execute_main()
+2018-11-19 14:31:34,605 INFO: Login in to Launchpad
+2018-11-19 14:31:40,878 INFO: Executing ProductionDataMonitoring.TaskFilter()
+2018-11-19 14:31:41,231 INFO: Refreshing access_token
+2018-11-19 14:31:45,338 INFO: select InProgress task from input sheet from ProductionDataMonitoring.TaskFilter()
+2018-11-19 14:31:45,339 INFO: Executing TransactionTrackerOperations.search_process_for_PDM() for: Loblaws|The Honest Company|850
+2018-11-19 14:31:45,379 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-11-19 14:31:51,949 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-11-19 14:32:00,961 INFO: Executing TransactionTrackerOperations.get_all_parcels()
+2018-11-19 14:32:53,046 INFO: Executing Script Prodution Data Monitoring
+2018-11-19 14:32:53,133 INFO: Executing ProductionDataMonitoring.execute_main()
+2018-11-19 14:33:04,525 INFO: Login in to Launchpad
+2018-11-19 14:33:10,794 INFO: Executing ProductionDataMonitoring.TaskFilter()
+2018-11-19 14:33:11,050 INFO: Refreshing access_token
+2018-11-19 14:33:14,486 INFO: select InProgress task from input sheet from ProductionDataMonitoring.TaskFilter()
+2018-11-19 14:33:14,487 INFO: Executing TransactionTrackerOperations.search_process_for_PDM() for: Loblaws|The Honest Company|850
+2018-11-19 14:33:14,522 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-11-19 14:33:20,793 INFO: Executing TransactionTrackerOperations.select_customer()

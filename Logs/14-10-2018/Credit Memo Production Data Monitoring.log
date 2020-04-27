@@ -1,0 +1,97 @@
+2018-10-14 17:53:30,886 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 17:57:03,940 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 17:57:09,258 INFO: Login in to Launchpad
+2018-10-14 17:57:36,654 INFO: Refreshing access_token
+2018-10-14 17:57:44,111 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 17:57:45,169 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 17:57:53,980 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 18:01:22,442 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 18:01:25,973 INFO: Login in to Launchpad
+2018-10-14 18:01:51,780 INFO: Refreshing access_token
+2018-10-14 18:01:58,172 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 18:01:59,383 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 18:02:08,650 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:17:21,568 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 19:17:25,308 INFO: Login in to Launchpad
+2018-10-14 19:18:01,536 INFO: Refreshing access_token
+2018-10-14 19:18:08,257 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 19:18:17,738 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:18:26,591 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:42:52,515 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 19:42:56,669 INFO: Login in to Launchpad
+2018-10-14 19:43:22,829 INFO: Refreshing access_token
+2018-10-14 19:43:29,402 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 19:43:38,605 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:43:47,684 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:55:54,708 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 19:55:58,219 INFO: Login in to Launchpad
+2018-10-14 19:56:31,691 INFO: Refreshing access_token
+2018-10-14 19:56:38,230 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 19:56:44,682 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:56:53,672 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:58:47,180 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 19:58:50,735 INFO: Login in to Launchpad
+2018-10-14 19:59:16,919 INFO: Refreshing access_token
+2018-10-14 19:59:22,525 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 19:59:25,212 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 19:59:34,082 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:01:18,322 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 20:01:21,999 INFO: Login in to Launchpad
+2018-10-14 20:01:47,668 INFO: Refreshing access_token
+2018-10-14 20:01:53,753 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 20:01:54,784 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:02:04,026 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:03:30,028 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 20:03:33,528 INFO: Login in to Launchpad
+2018-10-14 20:04:04,920 INFO: Refreshing access_token
+2018-10-14 20:04:10,182 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 20:04:12,075 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:04:21,091 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:07:06,487 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 20:07:10,175 INFO: Login in to Launchpad
+2018-10-14 20:07:40,637 INFO: Refreshing access_token
+2018-10-14 20:07:47,743 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 20:07:48,760 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:07:57,909 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:16:58,072 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 20:17:01,524 INFO: Login in to Launchpad
+2018-10-14 20:17:31,224 INFO: Refreshing access_token
+2018-10-14 20:17:37,856 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 20:17:38,875 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 20:17:52,976 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:10:57,478 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:11:01,182 INFO: Login in to Launchpad
+2018-10-14 21:11:30,212 INFO: Refreshing access_token
+2018-10-14 21:11:39,428 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:11:40,455 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:11:49,540 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:22:17,803 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:22:21,254 INFO: Login in to Launchpad
+2018-10-14 21:22:47,019 INFO: Refreshing access_token
+2018-10-14 21:22:53,665 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:22:54,684 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:23:03,661 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:29:27,250 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:29:30,797 INFO: Login in to Launchpad
+2018-10-14 21:29:55,935 INFO: Refreshing access_token
+2018-10-14 21:30:02,263 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:30:06,579 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:30:15,386 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:36:54,736 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:36:58,341 INFO: Login in to Launchpad
+2018-10-14 21:37:28,334 INFO: Refreshing access_token
+2018-10-14 21:37:34,679 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:37:43,614 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:37:52,575 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:40:15,035 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:40:18,702 INFO: Login in to Launchpad
+2018-10-14 21:40:46,145 INFO: Refreshing access_token
+2018-10-14 21:40:52,331 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:40:58,359 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:41:07,679 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:42:08,645 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-10-14 21:42:12,269 INFO: Login in to Launchpad
+2018-10-14 21:42:41,506 INFO: Refreshing access_token
+2018-10-14 21:42:46,921 INFO: Executing method 'search_process' from TransactionTrackerOperations
+2018-10-14 21:42:52,925 INFO: Executing method 'select_customer' from TransactionTrackerOperations
+2018-10-14 21:43:02,058 INFO: Executing method 'select_customer' from TransactionTrackerOperations

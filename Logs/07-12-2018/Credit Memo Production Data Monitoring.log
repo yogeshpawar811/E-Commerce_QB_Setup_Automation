@@ -1,0 +1,199 @@
+2018-12-07 14:20:31,103 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 14:20:31,266 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 14:20:45,339 INFO: Login in to Launchpad
+2018-12-07 14:21:10,075 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:21:10,491 INFO: Refreshing access_token
+2018-12-07 14:21:20,857 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:21:20,857 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 14:21:21,272 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:21:28,294 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:21:39,967 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:21:43,163 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:21:47,983 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:21:50,633 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:21:59,598 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson CHRISTIANA CARE HEALTH|810
+2018-12-07 14:21:59,966 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:22:06,827 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:22:18,672 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:22:24,184 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 14:22:24,508 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:22:31,797 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:22:43,982 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:22:49,708 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMORY HEALTHCARE|810
+2018-12-07 14:22:50,634 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:22:57,515 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:23:08,902 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:23:14,675 INFO: completed CMProductionDataMonitoring.execute_main()
+2018-12-07 14:29:06,548 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 14:29:06,616 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 14:29:11,592 INFO: Login in to Launchpad
+2018-12-07 14:29:41,480 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:29:41,716 INFO: Refreshing access_token
+2018-12-07 14:29:55,043 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:29:55,043 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 14:29:55,071 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:30:01,969 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:30:13,355 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:16,385 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:21,087 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:23,757 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:30,062 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson CHRISTIANA CARE HEALTH|810
+2018-12-07 14:30:30,918 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:30:37,844 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:30:49,775 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:52,704 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:30:57,419 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:31:02,073 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:31:06,801 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:31:11,568 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:31:20,251 ERROR: Error in CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:56:05,403 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 14:56:05,470 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 14:56:09,027 INFO: Login in to Launchpad
+2018-12-07 14:56:32,077 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:56:32,302 INFO: Refreshing access_token
+2018-12-07 14:56:39,440 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:56:39,441 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 14:56:39,478 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:56:46,348 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:56:57,662 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:57:00,491 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:57:05,093 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:57:07,738 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:57:20,051 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 14:57:21,153 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:57:28,103 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:57:39,709 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 14:57:48,885 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMORY HEALTHCARE|810
+2018-12-07 14:57:49,267 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:57:56,362 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 14:57:58,426 ERROR: Error in CMProductionDataMonitoring.TaskFilter()
+2018-12-07 14:58:02,896 INFO: completed CMProductionDataMonitoring.execute_main()
+2018-12-07 15:06:28,928 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 15:06:29,004 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 15:06:32,324 INFO: Login in to Launchpad
+2018-12-07 15:06:48,349 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:06:48,547 INFO: Refreshing access_token
+2018-12-07 15:06:57,029 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:06:57,029 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 15:06:57,049 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:07:03,890 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:07:15,348 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:07:18,092 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:07:22,920 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:07:25,516 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:07:32,498 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 15:07:32,891 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:07:39,693 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:07:51,231 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:07:56,523 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMORY HEALTHCARE|810
+2018-12-07 15:07:57,240 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:08:04,040 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:08:15,549 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:18,222 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:22,667 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:27,148 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:31,619 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:36,052 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:40,463 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:44,901 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:49,338 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:53,953 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:08:58,376 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:02,854 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:07,345 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:11,835 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:16,871 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:21,404 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:25,949 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:30,487 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:35,179 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:39,647 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:42,262 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:09:49,703 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|WILMAC DSSI|810
+2018-12-07 15:09:50,068 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:09:56,885 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:10:07,798 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:10:10,542 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:10:15,014 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:10:19,432 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:10:22,490 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:10:28,502 INFO: completed CMProductionDataMonitoring.execute_main()
+2018-12-07 15:11:47,896 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 15:11:47,973 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 15:11:51,290 INFO: Login in to Launchpad
+2018-12-07 15:12:07,222 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:12:07,431 INFO: Refreshing access_token
+2018-12-07 15:12:13,805 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:12:13,805 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 15:12:13,821 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:12:24,740 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:12:36,226 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:12:39,061 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:12:43,520 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:12:46,179 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:12:52,874 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 15:12:53,249 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:13:00,041 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:13:11,576 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:16,858 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMORY HEALTHCARE|810
+2018-12-07 15:13:17,516 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:13:24,342 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:13:35,530 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:38,184 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:42,713 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:47,085 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:51,729 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:13:55,347 ERROR: Error in CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:16:33,574 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 15:16:33,649 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 15:16:36,963 INFO: Login in to Launchpad
+2018-12-07 15:16:52,776 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:16:52,980 INFO: Refreshing access_token
+2018-12-07 15:16:59,344 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:16:59,345 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 15:16:59,377 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:17:06,250 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:17:17,470 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:17:20,340 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:17:25,216 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:17:27,908 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:17:34,942 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 15:17:35,410 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:17:41,651 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:17:43,721 ERROR: Error in CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:17:48,188 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|PRESBYTERIAN SENIOR LIVING DSSI|810
+2018-12-07 15:17:48,577 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:17:55,455 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:18:07,286 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:18:10,302 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:18:15,085 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:18:19,788 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:18:22,720 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:18:29,571 INFO: completed CMProductionDataMonitoring.execute_main()
+2018-12-07 15:53:34,713 INFO: Executing Script Credit Memo Prodution Data Monitoring
+2018-12-07 15:53:34,781 INFO: Executing CMProductionDataMonitoring.execute_main()
+2018-12-07 15:53:38,198 INFO: Login in to Launchpad
+2018-12-07 15:53:53,405 INFO: Executing CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:53:53,601 INFO: Refreshing access_token
+2018-12-07 15:54:00,561 INFO: select InProgress task from input sheet from CMProductionDataMonitoring.TaskFilter()
+2018-12-07 15:54:00,561 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson ALLIED SERVICES|810
+2018-12-07 15:54:00,577 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:54:07,394 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:54:18,885 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:54:21,764 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:54:26,305 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:54:28,929 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:54:35,604 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|McKesson EMH REGIONAL HEALTHCARE SYSTEMS|810
+2018-12-07 15:54:35,791 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:54:42,589 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:54:54,074 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:54:59,360 INFO: Executing TransactionTrackerOperations.search_process_for_CMPDM() for: Performance Health|PRESBYTERIAN SENIOR LIVING DSSI|810
+2018-12-07 15:55:00,097 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:55:06,936 INFO: Executing TransactionTrackerOperations.select_customer()
+2018-12-07 15:55:18,597 INFO: Executing TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:55:21,381 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:55:25,962 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:55:30,384 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:55:33,200 INFO: NoSuchElementException in TransactionTrackerOperations.get_CM_parcels()
+2018-12-07 15:55:39,147 INFO: completed CMProductionDataMonitoring.execute_main()
